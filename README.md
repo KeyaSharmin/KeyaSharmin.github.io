@@ -86,7 +86,9 @@ If you find this project useful or interesting, please consider giving it a star
 2. **Navigate to the Repository**: Go to the repository page. For example, if the repository URL is `https://github.com/KeyaSharmin/KeyaSharmin.github.io`, enter this URL in your browser.
 
 3. **Click the Star Button**: Once you are on the repository page, you will see a "Star" button at the top right corner of the page, just under the repository name and description. Click on this button to star the repository.
-<a class="github-button" href="https://github.com/buttons/github-buttons" data-color-scheme="no-preference: light_high_contrast; light: light; dark: light;" data-icon="octicon-star" data-size="large" aria-label="Star buttons/github-buttons on GitHub">Star</a>
+![Star Button](https://github.com/KeyaSharmin/KeyaSharmin.github.io/blob/main/assets/img/star.jpg)
+
+
 
 
 Thank you for your support!
